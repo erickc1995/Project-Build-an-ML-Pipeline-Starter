@@ -1,0 +1,15 @@
+artifact_uri: file:///home/emac1995/devops_course/submission_1/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e1531384b226435980ef8e10b3680a07/artifacts
+end_time: 1699704654187
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e1531384b226435980ef8e10b3680a07
+run_name: beautiful-fowl-839
+run_uuid: e1531384b226435980ef8e10b3680a07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699704634056
+status: 3
+tags: []
+user_id: emac1995

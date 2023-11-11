@@ -1,0 +1,15 @@
+artifact_uri: file:///home/emac1995/devops_course/submission_1/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d27401d658c845eca42c7c48f81b5723/artifacts
+end_time: 1699704634041
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d27401d658c845eca42c7c48f81b5723
+run_name: nebulous-colt-787
+run_uuid: d27401d658c845eca42c7c48f81b5723
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699704616128
+status: 3
+tags: []
+user_id: emac1995

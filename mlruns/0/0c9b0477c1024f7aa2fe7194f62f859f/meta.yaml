@@ -1,0 +1,15 @@
+artifact_uri: file:///home/emac1995/devops_course/submission_1/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0c9b0477c1024f7aa2fe7194f62f859f/artifacts
+end_time: 1699704664620
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0c9b0477c1024f7aa2fe7194f62f859f
+run_name: bemused-bat-87
+run_uuid: 0c9b0477c1024f7aa2fe7194f62f859f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699704654199
+status: 4
+tags: []
+user_id: emac1995
