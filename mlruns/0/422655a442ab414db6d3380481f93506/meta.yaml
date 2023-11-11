@@ -1,0 +1,15 @@
+artifact_uri: file:///home/emac1995/devops_course/submission_1/Project-Build-an-ML-Pipeline-Starter/mlruns/0/422655a442ab414db6d3380481f93506/artifacts
+end_time: 1699673938502
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 422655a442ab414db6d3380481f93506
+run_name: invincible-elk-733
+run_uuid: 422655a442ab414db6d3380481f93506
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699673917930
+status: 3
+tags: []
+user_id: emac1995

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/emac1995/devops_course/submission_1/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ea7b8556fded49cd8219e7275ea000db/artifacts
+end_time: 1699697406385
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ea7b8556fded49cd8219e7275ea000db
+run_name: vaunted-kit-723
+run_uuid: ea7b8556fded49cd8219e7275ea000db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699697369333
+status: 4
+tags: []
+user_id: emac1995

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/emac1995/devops_course/submission_1/Project-Build-an-ML-Pipeline-Starter/mlruns/0/908c10ab1f8e4db185eb8f56933906a4/artifacts
+end_time: 1699698420427
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 908c10ab1f8e4db185eb8f56933906a4
+run_name: traveling-cow-334
+run_uuid: 908c10ab1f8e4db185eb8f56933906a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699698396619
+status: 3
+tags: []
+user_id: emac1995

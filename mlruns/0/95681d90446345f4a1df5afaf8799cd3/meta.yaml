@@ -1,0 +1,15 @@
+artifact_uri: file:///home/emac1995/devops_course/submission_1/Project-Build-an-ML-Pipeline-Starter/mlruns/0/95681d90446345f4a1df5afaf8799cd3/artifacts
+end_time: 1699671327799
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95681d90446345f4a1df5afaf8799cd3
+run_name: learned-squid-268
+run_uuid: 95681d90446345f4a1df5afaf8799cd3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699671314374
+status: 3
+tags: []
+user_id: emac1995

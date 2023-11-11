@@ -1,0 +1,15 @@
+artifact_uri: file:///home/emac1995/devops_course/submission_1/Project-Build-an-ML-Pipeline-Starter/mlruns/0/05538803ff494daca8c755a373ff92c8/artifacts
+end_time: 1699680975864
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 05538803ff494daca8c755a373ff92c8
+run_name: monumental-doe-866
+run_uuid: 05538803ff494daca8c755a373ff92c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699680928822
+status: 3
+tags: []
+user_id: emac1995

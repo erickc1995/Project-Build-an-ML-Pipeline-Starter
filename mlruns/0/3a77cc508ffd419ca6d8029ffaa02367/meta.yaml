@@ -1,0 +1,15 @@
+artifact_uri: file:///home/emac1995/devops_course/submission_1/Project-Build-an-ML-Pipeline-Starter/mlruns/0/3a77cc508ffd419ca6d8029ffaa02367/artifacts
+end_time: 1699697385570
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3a77cc508ffd419ca6d8029ffaa02367
+run_name: ambitious-sponge-961
+run_uuid: 3a77cc508ffd419ca6d8029ffaa02367
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699697374124
+status: 3
+tags: []
+user_id: emac1995

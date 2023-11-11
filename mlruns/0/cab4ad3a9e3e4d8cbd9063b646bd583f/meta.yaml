@@ -1,0 +1,15 @@
+artifact_uri: file:///home/emac1995/devops_course/submission_1/Project-Build-an-ML-Pipeline-Starter/mlruns/0/cab4ad3a9e3e4d8cbd9063b646bd583f/artifacts
+end_time: 1699700301762
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cab4ad3a9e3e4d8cbd9063b646bd583f
+run_name: merciful-lark-957
+run_uuid: cab4ad3a9e3e4d8cbd9063b646bd583f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699700132478
+status: 4
+tags: []
+user_id: emac1995

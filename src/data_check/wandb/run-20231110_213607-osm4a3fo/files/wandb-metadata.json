@@ -1,0 +1,117 @@
+{
+    "os": "Linux-5.15.90.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+    "python": "3.9.18",
+    "heartbeatAt": "2023-11-11T05:36:08.499876",
+    "startedAt": "2023-11-11T05:36:07.748334",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        ".",
+        "-vv",
+        "--csv",
+        "nyc_airbnb/clean_sample.csv:latest",
+        "--ref",
+        "nyc_airbnb/clean_sample.csv:reference",
+        "--kl_threshold",
+        "0.2",
+        "--min_price",
+        "10",
+        "--max_price",
+        "350"
+    ],
+    "state": "running",
+    "program": "/home/emac1995/miniconda3/envs/mlflow-af6473294b18f57ea960125076520147a7a4be59/bin/pytest",
+    "git": {
+        "remote": "https://github.com/erickc1995/Project-Build-an-ML-Pipeline-Starter.git",
+        "commit": "077621b0ed54d88e8c2f5ef3dea7b725c4ea7c98"
+    },
+    "email": null,
+    "root": "/home/emac1995/devops_course/submission_1/Project-Build-an-ML-Pipeline-Starter",
+    "host": "DESKTOP-VHODI6T",
+    "username": "emac1995",
+    "executable": "/home/emac1995/miniconda3/envs/mlflow-af6473294b18f57ea960125076520147a7a4be59/bin/python",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 3400.0440000000012,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3400.044,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3400.044,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3400.044,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3400.044,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3400.044,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3400.044,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3400.044,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3400.044,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3400.044,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3400.044,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3400.044,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3400.044,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 1006.853931427002,
+        "used": 12.476165771484375
+    },
+    "gpu": "NVIDIA GeForce RTX 2070",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 2070",
+            "memory_total": 8589934592
+        }
+    ],
+    "memory": {
+        "total": 7.733501434326172
+    }
+}

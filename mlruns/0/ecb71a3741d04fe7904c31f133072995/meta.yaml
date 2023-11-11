@@ -1,0 +1,15 @@
+artifact_uri: file:///home/emac1995/devops_course/submission_1/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ecb71a3741d04fe7904c31f133072995/artifacts
+end_time: 1699699977388
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ecb71a3741d04fe7904c31f133072995
+run_name: valuable-ray-622
+run_uuid: ecb71a3741d04fe7904c31f133072995
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699699974213
+status: 4
+tags: []
+user_id: emac1995

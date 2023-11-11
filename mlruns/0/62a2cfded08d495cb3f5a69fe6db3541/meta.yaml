@@ -1,0 +1,15 @@
+artifact_uri: file:///home/emac1995/devops_course/submission_1/Project-Build-an-ML-Pipeline-Starter/mlruns/0/62a2cfded08d495cb3f5a69fe6db3541/artifacts
+end_time: 1699670743988
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 62a2cfded08d495cb3f5a69fe6db3541
+run_name: burly-hog-527
+run_uuid: 62a2cfded08d495cb3f5a69fe6db3541
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699670636987
+status: 3
+tags: []
+user_id: emac1995

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/emac1995/devops_course/submission_1/Project-Build-an-ML-Pipeline-Starter/mlruns/0/3763c07bdad4453dad06e440171aedc1/artifacts
+end_time: 1699698006330
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3763c07bdad4453dad06e440171aedc1
+run_name: glamorous-ray-445
+run_uuid: 3763c07bdad4453dad06e440171aedc1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699697895883
+status: 4
+tags: []
+user_id: emac1995

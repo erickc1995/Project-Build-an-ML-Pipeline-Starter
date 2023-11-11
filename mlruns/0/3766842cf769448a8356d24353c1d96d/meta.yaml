@@ -1,0 +1,15 @@
+artifact_uri: file:///home/emac1995/devops_course/submission_1/Project-Build-an-ML-Pipeline-Starter/mlruns/0/3766842cf769448a8356d24353c1d96d/artifacts
+end_time: 1699698420588
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3766842cf769448a8356d24353c1d96d
+run_name: clean-quail-189
+run_uuid: 3766842cf769448a8356d24353c1d96d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699698352232
+status: 3
+tags: []
+user_id: emac1995

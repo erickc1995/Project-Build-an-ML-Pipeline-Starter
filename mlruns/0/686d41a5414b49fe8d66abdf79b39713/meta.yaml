@@ -1,0 +1,15 @@
+artifact_uri: file:///home/emac1995/devops_course/submission_1/Project-Build-an-ML-Pipeline-Starter/mlruns/0/686d41a5414b49fe8d66abdf79b39713/artifacts
+end_time: 1699680976033
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 686d41a5414b49fe8d66abdf79b39713
+run_name: judicious-snake-27
+run_uuid: 686d41a5414b49fe8d66abdf79b39713
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699680926375
+status: 3
+tags: []
+user_id: emac1995

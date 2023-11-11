@@ -1,0 +1,15 @@
+artifact_uri: file:///home/emac1995/devops_course/submission_1/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ff2d89693d19448aae3657f843aac4cb/artifacts
+end_time: 1699700647516
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff2d89693d19448aae3657f843aac4cb
+run_name: rumbling-perch-295
+run_uuid: ff2d89693d19448aae3657f843aac4cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699700405741
+status: 3
+tags: []
+user_id: emac1995

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/emac1995/devops_course/submission_1/Project-Build-an-ML-Pipeline-Starter/mlruns/0/dca6ed10d28a470fb390496816edf439/artifacts
+end_time: 1699702205875
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dca6ed10d28a470fb390496816edf439
+run_name: angry-stoat-56
+run_uuid: dca6ed10d28a470fb390496816edf439
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699702104511
+status: 3
+tags: []
+user_id: emac1995

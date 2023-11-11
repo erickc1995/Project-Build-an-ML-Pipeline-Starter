@@ -1,0 +1,15 @@
+artifact_uri: file:///home/emac1995/devops_course/submission_1/Project-Build-an-ML-Pipeline-Starter/mlruns/0/72ebac3649e74f1c8343ad26da5eb213/artifacts
+end_time: 1699697396652
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 72ebac3649e74f1c8343ad26da5eb213
+run_name: selective-rook-162
+run_uuid: 72ebac3649e74f1c8343ad26da5eb213
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699697385583
+status: 3
+tags: []
+user_id: emac1995

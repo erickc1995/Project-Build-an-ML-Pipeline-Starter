@@ -1,0 +1,15 @@
+artifact_uri: file:///home/emac1995/devops_course/submission_1/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8427a67cd3ee45019ebdd11fa15c57bb/artifacts
+end_time: 1699697342494
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8427a67cd3ee45019ebdd11fa15c57bb
+run_name: able-goat-77
+run_uuid: 8427a67cd3ee45019ebdd11fa15c57bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699697339855
+status: 4
+tags: []
+user_id: emac1995

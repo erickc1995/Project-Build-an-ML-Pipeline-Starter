@@ -1,0 +1,15 @@
+artifact_uri: file:///home/emac1995/devops_course/submission_1/Project-Build-an-ML-Pipeline-Starter/mlruns/0/9664b06f3b294b83a59238481b4f77ba/artifacts
+end_time: 1699697406128
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9664b06f3b294b83a59238481b4f77ba
+run_name: loud-mole-583
+run_uuid: 9664b06f3b294b83a59238481b4f77ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699697396664
+status: 3
+tags: []
+user_id: emac1995
