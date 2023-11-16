@@ -1,0 +1,15 @@
+artifact_uri: file:///home/emac1995/devops_course/submission_1/Project-Build-an-ML-Pipeline-Starter/mlruns/0/2a925d02ad1b46b4aed48606849f9d5e/artifacts
+end_time: 1699705223472
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2a925d02ad1b46b4aed48606849f9d5e
+run_name: sassy-mole-941
+run_uuid: 2a925d02ad1b46b4aed48606849f9d5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699705212916
+status: 3
+tags: []
+user_id: emac1995

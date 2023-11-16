@@ -1,0 +1,15 @@
+artifact_uri: file:///home/emac1995/devops_course/submission_1/Project-Build-an-ML-Pipeline-Starter/mlruns/0/45d0822b58ce4bb6aac6b62349e02c37/artifacts
+end_time: 1699705192031
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 45d0822b58ce4bb6aac6b62349e02c37
+run_name: bright-dolphin-293
+run_uuid: 45d0822b58ce4bb6aac6b62349e02c37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699705180501
+status: 3
+tags: []
+user_id: emac1995

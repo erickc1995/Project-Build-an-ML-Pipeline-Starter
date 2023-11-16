@@ -1,0 +1,15 @@
+artifact_uri: file:///home/emac1995/devops_course/submission_1/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d5da64a594de4c1ba8f1b9ef30c781b2/artifacts
+end_time: 1699705559592
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d5da64a594de4c1ba8f1b9ef30c781b2
+run_name: salty-perch-789
+run_uuid: d5da64a594de4c1ba8f1b9ef30c781b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699705253618
+status: 3
+tags: []
+user_id: emac1995
